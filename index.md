@@ -37,13 +37,24 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
 ## User Guide
 This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
 
+#### Landing Page
+#### User Home Page
+#### Club Browser Page
+#### Club Admin Home Page
+#### Super Admin Home Page
+#### Profile Creation Page
+
+
 ## Community Feedback
 ## Developer Guide
 ## Deployment
 ## Installation
 ## Application Design
 ## Development History
-
+### Milestone 1
+* Mocking up the majority of the user interface
+* Setting up project home page
+* Creating necessary documentations and presentations
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
 
