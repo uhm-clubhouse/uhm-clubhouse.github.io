@@ -4,12 +4,7 @@
 
 * [Overview](#overview)
 * [Features](#features)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Deployment](#deployment)
-* [Installation](#installation)
-* [Application Design](#application-design)
+* [User Interface Mockups](#user-interface-mockups)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -34,8 +29,8 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
   * Introduce new categories, such as musical tastes, capabilities, and goals
 
 
-## User Guide
-This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
+## User Interface Mockups
+This section provides a walkthrough of the mockups created for the UHM Clubhouse user interface and its capabilities.
 
 #### Landing Page
 The landing page is the very first page presented to all users who are not logged in. Users can learn about the UHM Clubhouse application and log in or sign up.
@@ -72,11 +67,6 @@ Users with the Super Admin role are responsible for making sure the site content
 
 <img src="images/super-admin.png">
 
-## Community Feedback
-## Developer Guide
-## Deployment
-## Installation
-## Application Design
 ## Development History
 ### Milestone 1
 * Mocking up the majority of the user interface
