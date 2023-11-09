@@ -38,12 +38,34 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
 This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
 
 #### Landing Page
-#### User Home Page
-#### Club Browser Page
-#### Club Admin Home Page
-#### Super Admin Home Page
-#### Profile Creation Page
+The landing page is the very first page presented to all users who are not logged in. Users can learn about the UHM Clubhouse application and log in or sign up.
 
+<img src="images/landing.png">
+
+#### Profile Creation and Login Page
+This is where users can input their first and last name, email, and password to create a new account. Existing users can also log in by clicking the "Login" button in the top right corner to input their email and password.
+
+<img src="images/signin.png">
+
+#### User Home Page
+This home page is presented to users who are logged in. Recent updates are shown in the center of the page, along a sidebar containing a searchbar and a list of the clubs the users are following. Users can also access the "Club Listing" and "Create Club" links in the navigation bar on the top of the page.
+
+<img src="images/user-landing.png">
+
+#### Club Listing Page
+This page is the listing page, where users can browse all the available clubs that are posted. Specific clubs can be searched through the searchbar and club listings can be filtered to fit the user's needs. 
+
+<img src="images/club-listing.png">
+
+#### Club Admin Home Page
+Users with the Club Admin role can view all of their club postings and have the ability to edit the data associated with their club.
+
+<img src="images/edit-club.png">
+
+#### Super Admin Home Page
+Users with the Super Admin role are responsible for making sure the site content is appropriate and are able to delete a club posting at any time. Additionally, they are able to grant "Club Admin" privileges to selected users via the link in the navigation bar.
+
+<img src="images/super-admin.png">
 
 ## Community Feedback
 ## Developer Guide
@@ -55,7 +77,7 @@ This section provides a walkthrough of the UHM Clubhouse user interface and its 
 * Mocking up the majority of the user interface
 * Setting up project home page
 * Creating necessary documentations and presentations
-
+     
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
 
