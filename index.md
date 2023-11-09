@@ -57,6 +57,11 @@ This page is the listing page, where users can browse all the available clubs th
 
 <img src="images/club-listing.png">
 
+#### Club Creation Page
+This page is the club creation page, where users can create a posting for their club. 
+
+<img src="images/create-club.png">
+
 #### Club Admin Home Page
 Users with the Club Admin role can view all of their club postings and have the ability to edit the data associated with their club.
 
