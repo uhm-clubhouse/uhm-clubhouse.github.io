@@ -68,7 +68,7 @@ Users with the Super Admin role are responsible for making sure the site content
 <img src="images/super-admin.png">
 
 ## Development History
-### Milestone 1
+### [Milestone 1](https://github.com/orgs/uhm-clubhouse/projects/2)
 * Mocking up the majority of the user interface
 * Setting up project home page
 * Creating necessary documentations and presentations
