@@ -30,38 +30,61 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
   * Introduce new categories, such as musical tastes, capabilities, and goals
 
 
-## User Interface Mockups
-This section provides a walkthrough of the mockups created for the UHM Clubhouse user interface and its capabilities.
+## User Interface 
+This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
 
 #### Landing Page
 The landing page is the very first page presented to all users who are not logged in. Users can learn about the UHM Clubhouse application and log in or sign up.
 
+Planned design:
 <img src="images/landing.png">
+
+M1 update (11/16):
+<img src="images/m1-landing1.png">
+<img src="images/m1-landing2.png">
+
 
 #### Profile Creation and Login Page
 This is where users can input their first and last name, email, and password to create a new account. Existing users can also log in by clicking the "Login" button in the top right corner to input their email and password.
 
+Planned design:
 <img src="images/signin.png">
+
+M1 update (11/16):
+<img src="images/m1-signin.png">
 
 #### User Home Page
 This home page is presented to users who are logged in. Recent updates are shown in the center of the page, along a sidebar containing a searchbar and a list of the clubs the users are following. Users can also access the "Club Listing" and "Create Club" links in the navigation bar on the top of the page.
 
+Planned design:
 <img src="images/user-landing.png">
 
 #### Club Listing Page
 This page is the listing page, where users can browse all the available clubs that are posted. Specific clubs can be searched through the searchbar and club listings can be filtered to fit the user's needs. 
 
+Planned design:
 <img src="images/club-listing.png">
+
+M1 update (11/16):
+<img src="images/m1-userclublisting.png">
 
 #### Club Creation Page
 This page is the club creation page, where users can create a posting for their club. 
 
+Planned design:
 <img src="images/create-club.png">
+
+M1 update (11/16):
+<img src="images/m1-createclubs.png">
 
 #### Club Admin Home Page
 Users with the Club Admin role can view all of their club postings and have the ability to edit the data associated with their club.
 
+Planned design:
 <img src="images/edit-club.png">
+
+M1 update (11/16):
+<img src="images/m1-useryourclubs.png">
 
 #### Super Admin Home Page
 Users with the Super Admin role are responsible for making sure the site content is appropriate and are able to delete a club posting at any time. Additionally, they are able to grant "Club Admin" privileges to selected users via the link in the navigation bar.
