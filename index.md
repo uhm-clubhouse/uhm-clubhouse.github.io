@@ -71,7 +71,21 @@ Users with the Super Admin role are responsible for making sure the site content
 ## Deployment
 We’ve deployed our application can be found [here](http://24.144.116.33/)
 ### Installation
+1. Install [Meteor](https://www.meteor.com/install).
 
+2. Download a copy of [UHM Clubhouse](https://github.com/uhm-clubhouse/uhm-clubhouse) 
+3. After downloading, cd into the app directory and install the required libraries:
+```
+$ cd app
+```
+```
+$ meteor npm install
+```
+4. Once the libraries are installed, run the system by invoking:
+```
+$ meteor npm run start
+```
+5. If all goes well, the application will appear at http://localhost:3000
 
 ## Development History
 ### [Milestone 1](https://github.com/orgs/uhm-clubhouse/projects/2)
