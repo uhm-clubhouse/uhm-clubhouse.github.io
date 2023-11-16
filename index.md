@@ -91,11 +91,14 @@ We’ve deployed our application, which can be found [here](http://24.144.116.33
 
 ## Development History
 ### [Milestone 1](https://github.com/orgs/uhm-clubhouse/projects/2)
-* Mocking up the majority of the user interface
+* Create mockups for the user interface
 * Setting up project home page
+* Create default data
 * Creating necessary documentations and presentations
 
 ### [Milestone 2](https://github.com/orgs/uhm-clubhouse/projects/5)
+* Have pages load default data
+* Edit the design of each page to match mockups
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
