@@ -59,6 +59,9 @@ This home page is presented to users who are logged in. Recent updates are shown
 Planned design:
 <img src="images/user-landing.png">
 
+M1 update (11/16):
+<img src="images/m1-userlanding.png">
+
 #### Club Listing Page
 This page is the listing page, where users can browse all the available clubs that are posted. Specific clubs can be searched through the searchbar and club listings can be filtered to fit the user's needs. 
 
