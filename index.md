@@ -69,7 +69,7 @@ Users with the Super Admin role are responsible for making sure the site content
 <img src="images/super-admin.png">
 
 ## Deployment
-We’ve deployed our application can be found [here](http://24.144.116.33/)
+We’ve deployed our application, which can be found [here](http://24.144.116.33/)
 ### Installation
 1. Install [Meteor](https://www.meteor.com/install).
 
