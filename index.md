@@ -112,7 +112,7 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Create default data
 * Creating necessary documentations and presentations
 
-  ### Planned Designs:
+  #### Planned Designs:
 
     Landing:
     <img src="images/landing.png">
@@ -143,7 +143,7 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Implement continuous integration
 * Test all deployed pages using TestCafe
 
-  ### Updated user interface:
+  #### Updated user interface:
 
   Landing:
   <img src="images/m1-landing1.png">
@@ -169,7 +169,7 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Clean up user interface
 * Additional testing of the system
 
-  ### Updated user interface:
+  #### Updated user interface:
 
   Landing:
   <img src="images/m2-landing.png">
