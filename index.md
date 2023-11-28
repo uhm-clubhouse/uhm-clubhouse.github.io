@@ -74,6 +74,9 @@ Planned design:
 M1 update (11/16):
 <img src="images/m1-userclublisting.png">
 
+M2 update (11/28):
+<img src="images/m2-clublisting.png">
+
 #### Club Creation Page
 This page is the club creation page, where users can create a posting for their club. 
 
@@ -82,6 +85,20 @@ Planned design:
 
 M1 update (11/16):
 <img src="images/m1-createclubs.png">
+
+M2 update (11/28):
+<img src="images/m2-createclub.png">
+
+Form is submittable:
+<img src="images/m2-createclubform.png">
+
+
+Upon submitting a form, data is written to the database:
+
+ClubsCollection:
+<img src="images/m2-write1.png">
+ClubsInterestsCollection:
+<img src="images/m2-write2.png">
 
 #### Club Admin Home Page
 Users with the Club Admin role can view all of their club postings and have the ability to edit the data associated with their club.
@@ -92,10 +109,22 @@ Planned design:
 M1 update (11/16):
 <img src="images/m1-useryourclubs.png">
 
+M2 update (11/28):
+<img src="images/m2-clubadmin.png">
+
+Your Clubs tab:
+<img src="images/m2-editclub.png">
+<img src="images/m2-editclubform.png">
+
 #### Super Admin Home Page
 Users with the Super Admin role are responsible for making sure the site content is appropriate and are able to delete a club posting at any time. Additionally, they are able to grant "Club Admin" privileges to selected users via the link in the navigation bar.
 
+Planned design:
 <img src="images/super-admin.png">
+
+M2 update (11/28):
+<img src="images/m2-sadmin.png">
+<img src="images/m2-sadminset.png">
 
 ## Deployment
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
@@ -128,6 +157,12 @@ We’ve deployed our application, which can be found [here](https://uhm-clubhous
 ### [Milestone 2](https://github.com/orgs/uhm-clubhouse/projects/5)
 * Have pages load default data
 * Edit the design of each page to match mockups
+* Have the Create Club form write data to the database
+* Deploy four pages in addition to the landing page
+
+### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
+* Improve functionality of the system
+* 
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
