@@ -147,6 +147,9 @@ We’ve deployed our application, which can be found [here](https://uhm-clubhous
     ``
 5. If all goes well, the application will appear at http://localhost:3000
 
+## Continuous Integration
+![ci-badge](https://github.com/uhm-clubhouse/uhm-clubhouse/workflows/ci-uhm-clubhouse/badge.svg)
+
 ## Development History
 ### [Milestone 1](https://github.com/orgs/uhm-clubhouse/projects/2)
 * Create mockups for the user interface
