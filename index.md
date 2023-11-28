@@ -6,6 +6,7 @@
 * [Features](#features)
 * [User Interface Mockups](#user-interface-mockups)
 * [Deployment](#deployment)
+* [Continuous Integration](#continuous-integration)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -148,7 +149,12 @@ We’ve deployed our application, which can be found [here](https://uhm-clubhous
 5. If all goes well, the application will appear at http://localhost:3000
 
 ## Continuous Integration
+
 ![ci-badge](https://github.com/uhm-clubhouse/uhm-clubhouse/workflows/ci-uhm-clubhouse/badge.svg)
+
+UHM Clubhouse uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent “workflows” at https://github.com/uhm-clubhouse/uhm-clubhouse/actions.
+
+The workflow definition file is quite simple and is located at [github/workflows/ci.yml](https://github.com/uhm-clubhouse/uhm-clubhouse/blob/main/.github/workflows/ci.yml)
 
 ## Development History
 ### [Milestone 1](https://github.com/orgs/uhm-clubhouse/projects/2)
