@@ -135,6 +135,28 @@ The workflow definition file is quite simple and is located at [github/workflows
     Super Admin Home Page:
     <img src="images/super-admin.png">
 
+
+  #### Updated user interface:
+
+    Landing:
+    <img src="images/m1-landing1.png">
+    <img src="images/m1-landing2.png">
+  
+    Sign-in and Login:
+    <img src="images/m1-signin.png">
+  
+    User Home Page:
+    <img src="images/m1-userlanding.png">
+  
+    Club Listing Page:
+    <img src="images/m1-userclublisting.png">
+  
+    Club Creation Page:
+    <img src="images/m1-createclubs.png">
+  
+    Club Admin Home Page:
+    <img src="images/m1-useryourclubs.png">
+
 ### [Milestone 2](https://github.com/orgs/uhm-clubhouse/projects/5)
 * Have pages load default data
 * Edit the design of each page to match mockups
@@ -142,32 +164,6 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Deploy four pages in addition to the landing page
 * Implement continuous integration
 * Test all deployed pages using TestCafe
-
-  #### Updated user interface:
-
-  Landing:
-  <img src="images/m1-landing1.png">
-  <img src="images/m1-landing2.png">
-
-  Sign-in and Login:
-  <img src="images/m1-signin.png">
-
-  User Home Page:
-  <img src="images/m1-userlanding.png">
-
-  Club Listing Page:
-  <img src="images/m1-userclublisting.png">
-
-  Club Creation Page:
-  <img src="images/m1-createclubs.png">
-
-  Club Admin Home Page:
-  <img src="images/m1-useryourclubs.png">
-
-### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
-* Improve functionality of the system
-* Clean up user interface
-* Additional testing of the system
 
   #### Updated user interface:
 
@@ -203,6 +199,12 @@ The workflow definition file is quite simple and is located at [github/workflows
   <img src="images/m2-sadmin.png">
     Set Admin:
   <img src="images/m2-sadminset.png">
+
+### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
+* Improve functionality of the system
+* Clean up user interface
+* Additional testing of the system
+
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
