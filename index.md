@@ -168,10 +168,13 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Edit the design of each page to match mockups
 * Have the Create Club form write data to the database
 * Deploy four pages in addition to the landing page
+* Implement continuous integration
+* Test all deployed pages using TestCafe
 
 ### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
 * Improve functionality of the system
-* 
+* Clean up user interface
+* Additional testing of the system
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
