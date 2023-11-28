@@ -112,7 +112,7 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Create default data
 * Creating necessary documentations and presentations
 
-    ### Planned designs:
+  ### Planned Designs:
 
     Landing:
     <img src="images/landing.png">
