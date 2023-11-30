@@ -46,7 +46,7 @@ This is where users can input their first and last name, email, and password to 
 <img src="images/m1-signin.png">
 
 #### User Home Page
-This home page is presented to users who are logged in. Recent updates are shown in the center of the page, along a sidebar containing a searchbar and a list of the clubs the users are following. Users can also access the "Club Listing" and "Create Club" links in the navigation bar on the top of the page.
+This home page is presented to users who are logged in. Recent updates are shown in the center of the page, along a sidebar containing a search bar and a list of the clubs the users are following. Users can also access the "Club Listing" and "Create Club" links in the navigation bar on the top of the page.
 
 <img src="images/m2-userlanding.png">
 
@@ -110,7 +110,7 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Create mockups for the user interface
 * Setting up project home page
 * Create default data
-* Creating necessary documentations and presentations
+* Creating necessary documentation and presentations
 
   #### Planned Designs:
 
@@ -201,8 +201,8 @@ The workflow definition file is quite simple and is located at [github/workflows
   <img src="images/m2-sadminset.png">
 
 ### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
-* Improve functionality of the system
-* Clean up user interface
+* Improve the functionality of the system
+* Clean up the user interface
 * Additional testing of the system
 
      
