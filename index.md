@@ -118,44 +118,44 @@ The workflow definition file is quite simple and is located at [github/workflows
     ![](images/landing.png)
     
     Sign-in and Login:
-    <img src="images/signin.png">
+    ![](images/signin.png)
     
     User Home Page:
-    <img src="images/user-landing.png">
+    ![](images/user-landing.png)
 
     Club Listing Page:
-    <img src="images/club-listing.png">
+    ![](images/club-listing.png)
     
     Club Creation Page:
-    <img src="images/create-club.png">
+    ![](images/create-club.png)
 
     Club Admin Home Page:
-    <img src="images/edit-club.png">
+    ![](images/edit-club.png)
 
     Super Admin Home Page:
-    <img src="images/super-admin.png">
+    ![](images/super-admin.png)
 
 
   #### Updated user interface:
 
     Landing:
-    <img src="images/m1-landing1.png">
-    <img src="images/m1-landing2.png">
+    ![](images/m1-landing1.png)
+    ![](images/m1-landing2.png)
   
     Sign-in and Login:
-    <img src="images/m1-signin.png">
+    ![](images/m1-signin.png)
   
     User Home Page:
-    <img src="images/m1-userlanding.png">
+    ![](images/m1-userlanding.png)
   
     Club Listing Page:
-    <img src="images/m1-userclublisting.png">
+    ![](images/m1-userclublisting.png)
   
     Club Creation Page:
-    <img src="images/m1-createclubs.png">
+    ![](images/m1-createclubs.png)
   
     Club Admin Home Page:
-    <img src="images/m1-useryourclubs.png">
+    ![](images/m1-useryourclubs.png)
 
 ### [Milestone 2](https://github.com/orgs/uhm-clubhouse/projects/5)
 * Have pages load default data
@@ -168,37 +168,37 @@ The workflow definition file is quite simple and is located at [github/workflows
   #### Updated user interface:
 
   Landing:
-  <img src="images/m2-landing.png">
+  ![](images/m2-landing.png)
 
   User Home Page:
-  <img src="images/m2-userlanding.png">
+  ![](images/m2-userlanding.png)
 
   Club Listing Page:
-  <img src="images/m2-clublisting.png">
+  ![](images/m2-clublisting.png)
 
   Club Creation Page:
-  <img src="images/m2-createclub.png">
-  Form is submittable:
-  <img src="images/m2-createclubform.png">
+  ![](images/m2-createclub.png)
+  The form is submittable:
+  ![](images/m2-createclubform.png)
   Upon submitting a form, data is written to the database:
 
     ClubsCollection:
-  <img src="images/m2-write1.png">
+  ![](images/m2-write1.png)
 
   ClubsInterestsCollection:
-  <img src="images/m2-write2.png">
+  ![](images/m2-write2.png)
 
   Club Admin Home Page:
-  <img src="images/m2-clubadmin.png">
+  ![](images/m2-clubadmin.png)
 
     Edit Clubs:
-  <img src="images/m2-editclub.png">
-  <img src="images/m2-editclubform.png">
+  ![](images/m2-editclub.png)
+  ![](images/m2-editclubform.png)
 
     Super Admin Home Page:
-  <img src="images/m2-sadmin.png">
+  ![](images/m2-sadmin.png)
     Set Admin:
-  <img src="images/m2-sadminset.png">
+  ![](images/m2-sadminset.png)
 
 ### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
 * Improve the functionality of the system
