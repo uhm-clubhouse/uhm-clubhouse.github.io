@@ -37,7 +37,7 @@ This section provides a walkthrough of the UHM Clubhouse user interface and its 
 #### Landing Page
 The landing page is the very first page presented to all users who are not logged in. Users can learn about the UHM Clubhouse application and log in or sign up.
 
-<img src="images/m2-landing.png">
+![](images/m2-landing.png)
 
 
 #### Profile Creation and Login Page
