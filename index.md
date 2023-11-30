@@ -48,33 +48,33 @@ This is where users can input their first and last name, email, and password to 
 #### User Home Page
 This home page is presented to users who are logged in. Recent updates are shown in the center of the page, along a sidebar containing a search bar and a list of the clubs the users are following. Users can also access the "Club Listing" and "Create Club" links in the navigation bar on the top of the page.
 
-<img src="images/m2-userlanding.png">
+![](images/m2-userlanding.png)
 
 #### Club Listing Page
 This page is the listing page, where users can browse all the available clubs that are posted. Specific clubs can be searched through the searchbar and club listings can be filtered to fit the user's needs.
 
-<img src="images/m2-clublisting.png">
+![](images/m2-clublisting.png)
 
 #### Club Creation Page
 This page is the club creation page, where users can create a posting for their club. 
 
-<img src="images/m2-createclub.png">
+![](images/m2-createclub.png)
 
-<img src="images/m2-createclubform.png">
+![](images/m2-createclubform.png)
 
 
 #### Club Admin Home Page
 Users with the Club Admin role can view all of their club postings and can edit the data associated with their club.
 
-<img src="images/m2-clubadmin.png">
-<img src="images/m2-editclub.png">
-<img src="images/m2-editclubform.png">
+![](images/m2-clubadmin.png)
+![](images/m2-editclub.png)
+![](images/m2-editclubform.png)
 
 #### Super Admin Home Page
 Users with the Super Admin role are responsible for making sure the site content is appropriate and can delete a club posting at any time. Additionally, they can grant "Club Admin" privileges to selected users via the link in the navigation bar.
 
-<img src="images/m2-sadmin.png">
-<img src="images/m2-sadminset.png">
+![](images/m2-sadmin.png)
+![](images/m2-sadminset.png)
 
 ## Deployment
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
@@ -115,7 +115,7 @@ The workflow definition file is quite simple and is located at [github/workflows
   #### Planned Designs:
 
     Landing:
-    <img src="images/landing.png">
+    ![](images/landing.png)
     
     Sign-in and Login:
     <img src="images/signin.png">
