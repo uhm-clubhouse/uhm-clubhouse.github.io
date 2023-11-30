@@ -12,7 +12,7 @@
 
 
 ## Overview 
-Finding and learning about student clubs that are available at UH Manoa is a difficult task that the UHM Clubhouse intends to solve. The UHM Clubhouse is an application for students to browse an organized directory of all current student clubs with brief descriptions, meeting information, URL to their websites, contact information, and a few select photos.
+Finding and learning about student clubs that are available at UH Manoa is a difficult task that the UHM Clubhouse intends to solve. The UHM Clubhouse is an application for students to browse an organized directory of all current student clubs with brief descriptions, meeting information, and contact information.
 
 ## Features
 * Three distinct user roles
@@ -21,7 +21,7 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
   * Super admins play the crucial role of ensuring site content appropriateness and bestowing "club admin" privileges upon chosen users
 * Browsing page
   * Filter clubs based on interest areas, such as "athletic," "art," and "music." 
-  * A club can belong to multiple interests areas
+  * A club can belong to multiple interest areas
 * Notifications
   * Users receive notifications based on their interest areas
     * New club that matches to their preferences
@@ -64,14 +64,14 @@ This page is the club creation page, where users can create a posting for their 
 
 
 #### Club Admin Home Page
-Users with the Club Admin role can view all of their club postings and have the ability to edit the data associated with their club.
+Users with the Club Admin role can view all of their club postings and can edit the data associated with their club.
 
 <img src="images/m2-clubadmin.png">
 <img src="images/m2-editclub.png">
 <img src="images/m2-editclubform.png">
 
 #### Super Admin Home Page
-Users with the Super Admin role are responsible for making sure the site content is appropriate and are able to delete a club posting at any time. Additionally, they are able to grant "Club Admin" privileges to selected users via the link in the navigation bar.
+Users with the Super Admin role are responsible for making sure the site content is appropriate and can delete a club posting at any time. Additionally, they can grant "Club Admin" privileges to selected users via the link in the navigation bar.
 
 <img src="images/m2-sadmin.png">
 <img src="images/m2-sadminset.png">
