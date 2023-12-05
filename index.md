@@ -4,8 +4,10 @@
 
 * [Overview](#overview)
 * [Features](#features)
-* [User Interface](#user-interface)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Deployment](#deployment)
+* [Developer Guide](#developer-guide)
 * [Continuous Integration](#continuous-integration)
 * [Development History](#development-history)
 * [Team](#team)
@@ -31,7 +33,7 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
   * Introduce new categories, such as musical tastes, capabilities, and goals
 
 
-## User Interface
+## User Guide
 This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
 
 #### Landing Page
@@ -51,9 +53,15 @@ This home page is presented to users who are logged in. Recent updates are shown
 ![](images/m2-userlanding.png)
 
 #### Club Listing Page
-This page is the listing page, where users can browse all the available clubs that are posted. Specific clubs can be searched through the searchbar and club listings can be filtered to fit the user's needs.
+This page is the listing page, where users can browse all the available clubs that are posted. Clubs can be searched using the search bar and club listings can be filtered by interest.
 
-![](images/m2-clublisting.png)
+![](images/final-clublisting.png)
+
+Filter function:
+![](images/final-filterfunction.png)
+
+Search function: 
+![](images/final-searchfunction.png)
 
 #### Club Creation Page
 This page is the club creation page, where users can create a posting for their club. 
@@ -76,8 +84,14 @@ Users with the Super Admin role are responsible for making sure the site content
 ![](images/m2-sadmin.png)
 ![](images/m2-sadminset.png)
 
+## Community Feedback
+After deploying the application, the team asked for feedback from the UH community by using a Google Form. [Insert more findings/conclusions, etc...]
+
 ## Deployment
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
+
+## Developer Guide
+
 ### Installation
 1. Install [Meteor](https://www.meteor.com/install).
 
@@ -205,6 +219,13 @@ The workflow definition file is quite simple and is located at [github/workflows
 * Clean up the user interface
 * Additional testing of the system
 
+  #### Updated user interface:
+
+    Club Listing Page:
+  * Added a filter and search function
+  ![](images/final-clublisting.png)
+  ![](images/final-filterfunction.png)
+  ![](images/final-searchfunction.png)
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
