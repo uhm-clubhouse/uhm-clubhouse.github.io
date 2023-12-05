@@ -226,6 +226,20 @@ The workflow definition file is quite simple and is located at [github/workflows
   ![](images/final-clublisting.png)
   ![](images/final-filterfunction.png)
   ![](images/final-searchfunction.png)
+
+    Your Clubs Page:
+  * Added a filter and search function
+  ![](images/m3-yourclubs.png)
+
+    Edit Club Page:
+  ![](images/m3-editclubs.png)
+    After editing club information, form is submittable:
+  ![](images/m3-editclubssuccess.png)
+    Edited club information appears on "Your Clubs" page:
+  ![](images/m3-yourclubsedited.png)
+    Edited club information appears on "Club Listing" page:
+  ![](images/m3-clublistingedited.png)
+    
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
