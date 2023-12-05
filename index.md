@@ -235,10 +235,14 @@ The workflow definition file is quite simple and is located at [github/workflows
   ![](images/m3-editclubs.png)
     After editing club information, form is submittable:
   ![](images/m3-editclubssuccess.png)
-    Edited club information appears on "Your Clubs" page:
+    Edited club information appears on "Your Clubs" page with filter and search functions working with edited club:
   ![](images/m3-yourclubsedited.png)
-    Edited club information appears on "Club Listing" page:
+  ![](images/m3-yourclubseditedinterest.png)
+  ![](images/m3-yourclubseditedsearch.png)
+    Edited club information appears on "Club Listing" page with filter and search functions working with edited club:
   ![](images/m3-clublistingedited.png)
+  ![](images/m3-clublistingeditedinterest.png)
+  ![](images/m3-clublistingeditedsearch.png)
     
      
 ## Team
