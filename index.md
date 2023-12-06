@@ -72,20 +72,28 @@ This page is the club creation page, where users can create a posting for their 
 
 
 #### Club Admin Home Page
-Users with the Club Admin role can view all of their club postings and can edit the data associated with their club.
+Users with the Club Admin role can view their club postings and edit the club information.
 
-![](images/m2-clubadmin.png)
-![](images/m2-editclub.png)
-![](images/m2-editclubform.png)
+![](images/m3-yourclubs.png)
+![](images/m3-editclubs.png)
+![](images/m2-editclubssuccess.png)
+
+Club admin users can also search for their club postings by the search bar or by interest.
+
+Filter Function:
+![](images/m3-yourclubseditedinterest.png)
+
+Search Function:
+![](images/m3-yourclubseditedsearch.png)
 
 #### Super Admin Home Page
-Users with the Super Admin role are responsible for making sure the site content is appropriate and can delete a club posting at any time. Additionally, they can grant "Club Admin" privileges to selected users via the link in the navigation bar.
+Users with the Super Admin role are responsible for ensuring the site content is appropriate and can delete a club posting at any time. Additionally, they can grant "Club Admin" privileges to selected users via the link in the navigation bar.
 
 ![](images/m2-sadmin.png)
 ![](images/m2-sadminset.png)
 
 ## Community Feedback
-After deploying the application, the team asked for feedback from the UH community by using a Google Form. [Insert more findings/conclusions, etc...]
+After deploying the application, the team asked for feedback from the UH community using a Google Form found [here](https://forms.gle/AQyRCnFNsQDmtRi17). Below are some feedback we received from the community:
 
 ## Deployment
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
@@ -233,13 +241,13 @@ The workflow definition file is quite simple and is located at [github/workflows
 
     Edit Club Page:
   ![](images/m3-editclubs.png)
-    After editing club information, form is submittable:
+    After editing club information, the form is submittable:
   ![](images/m3-editclubssuccess.png)
-    Edited club information appears on "Your Clubs" page with filter and search functions working with edited club:
+    Edited club information appears on the "Your Clubs" page with filter and search functions working with the edited club:
   ![](images/m3-yourclubsedited.png)
   ![](images/m3-yourclubseditedinterest.png)
   ![](images/m3-yourclubseditedsearch.png)
-    Edited club information appears on "Club Listing" page with filter and search functions working with edited club:
+    Edited club information appears on the "Club Listing" page with filter and search functions working with the edited club:
   ![](images/m3-clublistingedited.png)
   ![](images/m3-clublistingeditedinterest.png)
   ![](images/m3-clublistingeditedsearch.png)
