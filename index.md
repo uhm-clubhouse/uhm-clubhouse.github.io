@@ -14,7 +14,7 @@
 
 
 ## Overview 
-Finding and learning about student clubs that are available at UH Manoa is a difficult task that the UHM Clubhouse intends to solve. The UHM Clubhouse is an application for students to browse an organized directory of all current student clubs with brief descriptions, meeting information, and contact information.
+Finding and learning about available student clubs at UH Manoa is a difficult task that the UHM Clubhouse intends to solve. The UHM Clubhouse is an application for students to browse an organized directory of all current student clubs with brief descriptions, meeting information, and contact information.
 
 ## Features
 * Three distinct user roles
@@ -22,15 +22,19 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
   * Club admins wield the power to edit their club's data
   * Super admins play the crucial role of ensuring site content appropriateness and bestowing "club admin" privileges upon chosen users
 * Browsing page
-  * Filter clubs based on interest areas, such as "athletic," "art," and "music." 
+  * Filter clubs based on interest areas, such as "athletic," "art," and "music"
+  * Search for clubs using keywords that match the club names or descriptions
   * A club can belong to multiple interest areas
-* Notifications
-  * Users receive notifications based on their interest areas
-    * New club that matches to their preferences
-    * When an existing club adds an interest area relevant to the user
+* Following page
+  * Users can view the clubs they joined on their home page
+    * Users can leave or join the club at any time
+* Admin request form
+  * Users can request to be an admin by submitting their email
 * Admin responsibilities
   * Review site content to ensure it is appropriate
-  * Introduce new categories, such as musical tastes, capabilities, and goals
+  * Create, delete, or edit a club at any time
+* Super admin responsibilities
+  * View and approve of requests made by users to become an admin
 
 ## User Guide
 This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
