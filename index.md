@@ -32,53 +32,52 @@ Finding and learning about student clubs that are available at UH Manoa is a dif
   * Review site content to ensure it is appropriate
   * Introduce new categories, such as musical tastes, capabilities, and goals
 
-
 ## User Guide
 This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
 
 #### Landing Page
 The landing page is the very first page presented to all users who are not logged in. Users can learn about the UHM Clubhouse application and log in or sign up.
 
-![](images/m2-landing.png)
-
+![](images/m3-landingpage.png)
 
 #### Profile Creation and Login Page
-This is where users can input their first and last name, email, and password to create a new account. Existing users can also log in by clicking the "Login" button in the top right corner to input their email and password.
+This is where users can input their email and password to create a new account. Existing users can also log in by clicking the "Login" button in the top right corner to input their email and password.
 
-<img src="images/m1-signin.png">
+Login Page:
+![](images/m3-signin.png)
+
+Profile Creation Page:
+![](images/m3-signup.png)
 
 #### User Home Page
-This home page is presented to users who are logged in. Recent updates are shown in the center of the page, along a sidebar containing a search bar and a list of the clubs the users are following. Users can also access the "Club Listing" and "Create Club" links in the navigation bar on the top of the page.
+This home page is presented to users who are logged in. The user's joined club information is shown in the center of the page, along with a sidebar containing a list of the clubs the users are following. Users can also access the "Club Listing" and "Admin Request Form" links in the navigation bar at the top of the page.
 
-![](images/m2-userlanding.png)
+![](images/m3-userhomepage.png)
 
 #### Club Listing Page
-This page is the listing page, where users can browse all the available clubs that are posted. Clubs can be searched using the search bar and club listings can be filtered by interest.
+This page is the listing page, where users can browse and join all the available clubs that are posted. Clubs can be filtered by interest or searched using the search bar.
 
-![](images/final-clublisting.png)
+![](images/m3-clublisting.png)
 
 Filter function:
-![](images/final-filterfunction.png)
+![](images/m3-clublistinginterest.png)
 
 Search function: 
-![](images/final-searchfunction.png)
+![](images/m3-clublistingsearch.png)
 
-#### Club Creation Page
-This page is the club creation page, where users can create a posting for their club. 
+#### Admin Request Form Page
+This page is the admin request form, where users can request to become a club admin to create and manage their clubs.
 
-![](images/m2-createclub.png)
-
-![](images/m2-createclubform.png)
-
+![](images/m3-adminrequestpage.png)
 
 #### Club Admin Home Page
 Users with the Club Admin role can view their club postings and edit the club information.
 
 ![](images/m3-yourclubs.png)
 ![](images/m3-editclubs.png)
-![](images/m2-editclubssuccess.png)
+![](images/m3-editclubssuccess.png)
 
-Club admin users can also search for their club postings by the search bar or by interest.
+Club admin users can also search for their club postings by the search bar or filter by interest.
 
 Filter Function:
 ![](images/m3-yourclubseditedinterest.png)
@@ -89,8 +88,7 @@ Search Function:
 #### Super Admin Home Page
 Users with the Super Admin role are responsible for ensuring the site content is appropriate and can delete a club posting at any time. Additionally, they can grant "Club Admin" privileges to selected users via the link in the navigation bar.
 
-![](images/m2-sadmin.png)
-![](images/m2-sadminset.png)
+![](images/m3-adminrequest.png)
 
 ## Community Feedback
 After deploying the application, the team asked for feedback from the UH community using a Google Form found [here](https://forms.gle/AQyRCnFNsQDmtRi17). Below are some feedback we received from the community:
@@ -100,7 +98,7 @@ We’ve deployed our application, which can be found [here](https://uhm-clubhous
 
 ## Developer Guide
 
-### Installation
+## Installation
 1. Install [Meteor](https://www.meteor.com/install).
 
 2. Download a copy of [UHM Clubhouse](https://github.com/uhm-clubhouse/uhm-clubhouse) 
@@ -127,7 +125,9 @@ UHM Clubhouse uses GitHub Actions to automatically run ESLint and TestCafe each 
 
 The workflow definition file is quite simple and is located at [github/workflows/ci.yml](https://github.com/uhm-clubhouse/uhm-clubhouse/blob/main/.github/workflows/ci.yml)
 
-## Development History
+### Development History
+Below, we have included our continuous integration of the application through three milestones:
+
 ### [Milestone 1](https://github.com/orgs/uhm-clubhouse/projects/2)
 * Create mockups for the user interface
 * Setting up project home page
@@ -276,7 +276,8 @@ The workflow definition file is quite simple and is located at [github/workflows
   ![](images/m3-adminrequest.png)
      
 ## Team
-UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
+UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2).
+
 
 These members have signed a contract for this organization, which can be viewed [here](https://docs.google.com/document/d/17iacQBDx85FvQOAC1Jws0_lws82LN-tlW3v9oX7Rp2A/edit?usp=sharing).
 
