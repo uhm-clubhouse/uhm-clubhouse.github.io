@@ -104,6 +104,8 @@ After deploying the application, the team asked for feedback from the UH communi
 * "It was easy to look through. Straight to the point and informative, nothing there to distract from the purpose of the website."
 
 We also asked them to rate the usability and practicality of our application on a scale of 1 to 5 (1 being the worst and 5 being the best):
+
+
 ![](images/feedback1.png)
 ![](images/feedback2.png)
 
