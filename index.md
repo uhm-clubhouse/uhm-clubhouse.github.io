@@ -213,13 +213,13 @@ The workflow definition file is quite simple and is located at [github/workflows
   Club Admin Home Page:
   ![](images/m2-clubadmin.png)
 
-    Edit Clubs:
+  Edit Clubs:
   ![](images/m2-editclub.png)
   ![](images/m2-editclubform.png)
 
-    Super Admin Home Page:
+  Super Admin Home Page:
   ![](images/m2-sadmin.png)
-    Set Admin:
+  Set Admin:
   ![](images/m2-sadminset.png)
 
 ### [Milestone 3](https://github.com/orgs/uhm-clubhouse/projects/6)
@@ -229,17 +229,31 @@ The workflow definition file is quite simple and is located at [github/workflows
 
   #### Updated user interface:
 
+    Landing Page:
+  * Updated logo and user interface
+
+    User Home Page:
+  * Added a join and leave club function
+  * Shows users their joined clubs
+ 
+    Admin Request Form
+  * Allows users to request to become a club admin via email address
+
+    Request form is submittable:
+
     Club Listing Page:
   * Added a filter and search function
+  * Added a leave club function
   ![](images/final-clublisting.png)
   ![](images/final-filterfunction.png)
   ![](images/final-searchfunction.png)
 
-    Your Clubs Page:
+    Your Clubs Page for Admins:
   * Added a filter and search function
+  * Added a delete club function
   ![](images/m3-yourclubs.png)
 
-    Edit Club Page:
+    Edit Club Page for Admins:
   ![](images/m3-editclubs.png)
     After editing club information, the form is submittable:
   ![](images/m3-editclubssuccess.png)
@@ -251,6 +265,10 @@ The workflow definition file is quite simple and is located at [github/workflows
   ![](images/m3-clublistingedited.png)
   ![](images/m3-clublistingeditedinterest.png)
   ![](images/m3-clublistingeditedsearch.png)
+
+    Admin Requests Page for Super Admins only:
+  * Shows what accounts are requesting to be admins
+  * Added a hide function to hide any admin requests
     
      
 ## Team
