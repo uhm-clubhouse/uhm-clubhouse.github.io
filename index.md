@@ -101,9 +101,11 @@ After deploying the application, the team asked for feedback from the UH communi
 * "...whenever you join a club you could add in a more visible way of seeing that you joined a club"
 * "Simple and straightforward but you should add more pictures to represent the clubs"
 * "Perfect"
+* "It was easy to look through. Straight to the point and informative, nothing there to distract from the purpose of the website."
 
 We also asked them to rate the usability and practicality of our application on a scale of 1 to 5 (1 being the worst and 5 being the best):
-
+![](images/feedback1.png)
+![](images/feedback2.png)
 
 ## Deployment
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
