@@ -97,6 +97,14 @@ Users with the Super Admin role are responsible for ensuring the site content is
 ## Community Feedback
 After deploying the application, the team asked for feedback from the UH community using a Google Form found [here](https://forms.gle/AQyRCnFNsQDmtRi17). Below are some feedback we received from the community:
 
+* "The home page was a very simple and informative home page that clearly described the steps on how to use the website. A possible way to make the homepage better is to have a small slideshow on the step-by-step instructions instead of having the steps all laid out. The descriptions were simple and taught me how to maneuver the website."
+* "...whenever you join a club you could add in a more visible way of seeing that you joined a club"
+* "Simple and straightforward but you should add more pictures to represent the clubs"
+* "Perfect"
+
+We also asked them to rate the usability and practicality of our application on a scale of 1 to 5 (1 being the worst and 5 being the best):
+
+
 ## Deployment
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
 
