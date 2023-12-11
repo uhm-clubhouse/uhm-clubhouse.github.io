@@ -231,22 +231,26 @@ The workflow definition file is quite simple and is located at [github/workflows
 
     Landing Page:
   * Updated logo and user interface
+  ![](images/m3-landingpage.png)
 
     User Home Page:
-  * Added a join and leave club function
   * Shows users their joined clubs
+  * Added a join and leave club function
+  ![](images/m3-userhomepage.png)
+  ![](images/m3-userhomepageedited.png)
  
     Admin Request Form
   * Allows users to request to become a club admin via email address
-
-    Request form is submittable:
+  ![](images/m3-adminrequestpage.png)
+    The request form is submittable:
+  ![](images/m3-adminrequestpagesuccess.png)
 
     Club Listing Page:
   * Added a filter and search function
   * Added a leave club function
-  ![](images/final-clublisting.png)
-  ![](images/final-filterfunction.png)
-  ![](images/final-searchfunction.png)
+  ![](images/m3-clublisting.png)
+  ![](images/m3-clublistinginterest.png)
+  ![](images/m3-clublistingsearch.png)
 
     Your Clubs Page for Admins:
   * Added a filter and search function
@@ -269,7 +273,7 @@ The workflow definition file is quite simple and is located at [github/workflows
     Admin Requests Page for Super Admins only:
   * Shows what accounts are requesting to be admins
   * Added a hide function to hide any admin requests
-    
+  ![](images/m3-adminrequest.png)
      
 ## Team
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2). 
