@@ -13,10 +13,10 @@
 * [Team](#team)
 
 
-## Overview 
+## [Overview](#overview)
 Finding and learning about available student clubs at UH Manoa is a difficult task that the UHM Clubhouse intends to solve. The UHM Clubhouse is an application for students to browse an organized directory of all current student clubs with brief descriptions, meeting information, and contact information.
 
-## Features
+## [Features](#features)
 * Three distinct user roles
   * Regular users can enjoy a seamless browsing experience of the directory
   * Club admins wield the power to edit their club's data
@@ -36,7 +36,7 @@ Finding and learning about available student clubs at UH Manoa is a difficult ta
 * Super admin responsibilities
   * View and approve of requests made by users to become an admin
 
-## User Guide
+## [User Guide](#user-guide)
 This section provides a walkthrough of the UHM Clubhouse user interface and its capabilities.
 
 #### Landing Page
@@ -94,7 +94,7 @@ Users with the Super Admin role are responsible for ensuring the site content is
 
 ![](images/m3-adminrequest.png)
 
-## Community Feedback
+## [Community Feedback](#community-feedback)
 After deploying the application, the team asked for feedback from the UH community using a Google Form found [here](https://forms.gle/AQyRCnFNsQDmtRi17). Below are some feedback we received from the community:
 
 * "The home page was a very simple and informative home page that clearly described the steps on how to use the website. A possible way to make the homepage better is to have a small slideshow on the step-by-step instructions instead of having the steps all laid out. The descriptions were simple and taught me how to maneuver the website."
@@ -109,10 +109,10 @@ We also asked them to rate the usability and practicality of our application on 
 ![](images/feedback1.png)
 ![](images/feedback2.png)
 
-## Deployment
+## [Deployment](#deloyment)
 We’ve deployed our application, which can be found [here](https://uhm-clubhouse.xyz/)
 
-## Developer Guide
+## [Developer Guide](#developer-guide)
 
 ## Installation
 1. Install [Meteor](https://www.meteor.com/install).
@@ -133,7 +133,7 @@ We’ve deployed our application, which can be found [here](https://uhm-clubhous
     ``
 5. If all goes well, the application will appear at http://localhost:3000
 
-## Continuous Integration
+## [Continuous Integration](#continuous-integration)
 
 ![ci-badge](https://github.com/uhm-clubhouse/uhm-clubhouse/workflows/ci-uhm-clubhouse/badge.svg)
 
@@ -291,7 +291,7 @@ Below, we have included our continuous integration of the application through th
   * Added a hide function to hide any admin requests
   ![](images/m3-adminrequest.png)
      
-## Team
+## [Team](#team)
 UHM Clubhouse is designed, implemented, and maintained by [Miki Kojima](https://github.com/miki-x2), [Keiko Raiola](https://github.com/keikotr), [Iverson Yago](https://github.com/iversony1), [Lizyl Failano](https://github.com/lizylf), [Delsin Rhoney](https://github.com/DelsinRhoney), [Chad Vilayvong](https://github.com/Chadv2).
 
 
